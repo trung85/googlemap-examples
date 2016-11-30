@@ -8,5 +8,8 @@ https://www.sanwebe.com/2013/10/google-map-v3-markers-and-infowindow-with-jquery
 Google Map v3 Editing & Saving Markers in Database
 https://www.sanwebe.com/2013/10/google-map-v3-editing-saving-marker-in-database
 
-
+### googlemaps
+Tong hop cac examples ve google maps
+direction, dragable, marker
+http://technico.qnownow.com/create-a-store-locator-with-google-maps/
 
